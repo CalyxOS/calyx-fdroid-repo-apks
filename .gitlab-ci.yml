@@ -1,15 +1,59 @@
-update_fdroid_repos:
+update_fdroid_repo_common:
   trigger: CalyxOS/calyx-fdroid-repo
+  only:
+  - master
+
+update_fdroid_repo_walleye:
   trigger: CalyxOS/calyx-fdroid-repo-walleye
+  only:
+  - master
+
+update_fdroid_repo_taimen:
   trigger: CalyxOS/calyx-fdroid-repo-taimen
+  only:
+  - master
+
+update_fdroid_repo_crosshatch:
   trigger: CalyxOS/calyx-fdroid-repo-crosshatch
+  only:
+  - master
+
+update_fdroid_repo_blueline:
   trigger: CalyxOS/calyx-fdroid-repo-blueline
+  only:
+  - master
+
+update_fdroid_repo_bonito:
   trigger: CalyxOS/calyx-fdroid-repo-bonito
+  only:
+  - master
+
+update_fdroid_repo_sargo:
   trigger: CalyxOS/calyx-fdroid-repo-sargo
+  only:
+  - master
+
+update_fdroid_repo_coral:
   trigger: CalyxOS/calyx-fdroid-repo-coral
+  only:
+  - master
+
+update_fdroid_repo_flame:
   trigger: CalyxOS/calyx-fdroid-repo-flame
+  only:
+  - master
+
+update_fdroid_repo_sunfish:
   trigger: CalyxOS/calyx-fdroid-repo-sunfish
+  only:
+  - master
+
+update_fdroid_repo_redfin:
   trigger: CalyxOS/calyx-fdroid-repo-redfin
+  only:
+  - master
+
+update_fdroid_repo_bramble:
   trigger: CalyxOS/calyx-fdroid-repo-bramble
   only:
   - master
