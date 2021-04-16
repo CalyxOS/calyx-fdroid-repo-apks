@@ -3,6 +3,11 @@ update_fdroid_repo_common:
   only:
   - master
 
+update_fdroid_repo_jasmine_sprout:
+  trigger: CalyxOS/calyx-fdroid-repo-jasmine_sprout
+  only:
+  - master
+
 update_fdroid_repo_walleye:
   trigger: CalyxOS/calyx-fdroid-repo-walleye
   only:
