@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f2c34c73_f55a64bb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-07-16T16:59:07Z",
+      "side": 1,
+      "message": "https://github.com/microg/GmsCore/issues/1503#issuecomment-872097477",
+      "revId": "ed654a8bcab92409060314b4d89f8d4b61f0660d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
