@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7acb8d84_69050aa1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-09-02T17:08:43Z",
+      "side": 1,
+      "message": "Hold till Google\u0027s rollout % increases.\n\nhttps://chromiumdash.appspot.com/releases?platform\u003dAndroid is at 50% at time of comment.\n\nStrangely it shows 103 as the other 50% and not 104.",
+      "revId": "0fda0702d0e2c614e3b700efbdd76e6dc4fa558d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
