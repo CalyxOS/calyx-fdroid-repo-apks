@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9691787d_bfa25a30",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-09-13T16:22:21Z",
+      "side": 1,
+      "message": "https://chromiumdash.appspot.com/releases?platform\u003dAndroid is at 25%",
+      "revId": "47cd4b310f31184615ac52db294dc3b19c4e6c21",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
