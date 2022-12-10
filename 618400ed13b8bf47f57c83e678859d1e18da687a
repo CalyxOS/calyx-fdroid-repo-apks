@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "80a52a3e_d7f76574",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2022-12-10T14:45:02Z",
+      "side": 1,
+      "message": "Needs other changes as noted in commit message, seemingly signature spoofing-related",
+      "revId": "618400ed13b8bf47f57c83e678859d1e18da687a",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
