@@ -3,6 +3,23 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "c7b263dd_ebbc9146",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-12-11T10:36:53Z",
+      "side": 1,
+      "message": "That doesn\u0027t sound right. We enforce signature spoofing by package name and privapp perm, but not the sig the apk was signed with.\n\n* prebuilts/calyx/microg: APK signed with key in that repo\n* prod builds: APK re-signed with a secret key\n\nBoth work just fine, so there\u0027s no reason this won\u0027t. The issue is likely missing privapp xml - `GmsCore` has it as a dependency, you can just add the same dependencies here (i.e. don\u0027t copy the xmls, just add the names to the makefile, and it should work)",
+      "revId": "618400ed13b8bf47f57c83e678859d1e18da687a",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "80a52a3e_d7f76574",
         "filename": "/PATCHSET_LEVEL",
         "patchSetId": 1
