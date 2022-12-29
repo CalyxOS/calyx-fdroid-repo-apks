@@ -33,6 +33,58 @@
       "message": "When testing this on a fresh install, Chromium and WebView-based apps do not launch, and I see this in logs: `E cr_ChromiumAndroidLinker: LoadLibrary: Failed to load native library: libmonochrome_64.so`",
       "revId": "93a1ccdb5a9920e2771e1ad3535464c3a812c014",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "372dda99_216244fa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-12-29T12:32:33Z",
+      "side": 1,
+      "message": "I think my comments inline should solve this.",
+      "parentUuid": "118c5064_354f2f83",
+      "revId": "93a1ccdb5a9920e2771e1ad3535464c3a812c014",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "69202c15_21b04a2f",
+        "filename": "chromium/Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-12-29T12:32:33Z",
+      "side": 1,
+      "message": "TrichromeLibrarySigned",
+      "revId": "93a1ccdb5a9920e2771e1ad3535464c3a812c014",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "48a7e743_a61fdbfc",
+        "filename": "chromium/Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-12-29T12:32:33Z",
+      "side": 1,
+      "message": "TrichromeLibrarySigned",
+      "revId": "93a1ccdb5a9920e2771e1ad3535464c3a812c014",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
