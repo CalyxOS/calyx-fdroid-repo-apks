@@ -88,6 +88,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "92552572_498549e1",
+        "filename": "chromium/Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-01-28T16:26:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "69202c15_21b04a2f",
+      "revId": "93a1ccdb5a9920e2771e1ad3535464c3a812c014",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "48a7e743_a61fdbfc",
@@ -101,6 +119,24 @@
       "writtenOn": "2022-12-29T12:32:33Z",
       "side": 1,
       "message": "TrichromeLibrarySigned",
+      "revId": "93a1ccdb5a9920e2771e1ad3535464c3a812c014",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f03964f5_1f399115",
+        "filename": "chromium/Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-01-28T16:26:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "48a7e743_a61fdbfc",
       "revId": "93a1ccdb5a9920e2771e1ad3535464c3a812c014",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
